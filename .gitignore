@@ -58,5 +58,11 @@ Thumbs.db
 *.jpg
 *.jpeg
 
+# Archives
+*.zip
+*.rar
+*.tar
+*.gz
+
 # Logs
 *.log
