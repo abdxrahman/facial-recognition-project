@@ -1,0 +1,62 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Model files (too large for git)
+*.json
+*.pkl
+*.h5
+*.pt
+*.pth
+
+# Data files
+*.csv
+dataset2/
+test_images/
+test_results/
+TP6_MOUSTARI/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Images (generated outputs)
+*.png
+*.jpg
+*.jpeg
+
+# Logs
+*.log
