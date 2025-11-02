@@ -140,22 +140,6 @@ The project uses images of 7 political figures:
 - Hugo Chavez
 - Tony Blair
 
-## 🎓 Educational Context
-
-This is a practical lab assignment (TP6) for a Data Analysis course, demonstrating:
-- Feature engineering for computer vision
-- Supervised machine learning
-- Dimensionality reduction techniques
-- Model evaluation and interpretation
-
-## 📄 License
-
-This project is for educational purposes.
-
-## 👤 Author
-
-Data Analysis Course - TP6 Project
-
 ## 🙏 Acknowledgments
 
 - MediaPipe by Google for facial landmark detection
